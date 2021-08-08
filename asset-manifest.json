@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/photoshop-clone/static/css/main.938f98cf.chunk.css",
+    "main.js": "/photoshop-clone/static/js/main.e496a332.chunk.js",
+    "main.js.map": "/photoshop-clone/static/js/main.e496a332.chunk.js.map",
+    "runtime-main.js": "/photoshop-clone/static/js/runtime-main.470b836a.js",
+    "runtime-main.js.map": "/photoshop-clone/static/js/runtime-main.470b836a.js.map",
+    "static/js/2.4d8fc1a3.chunk.js": "/photoshop-clone/static/js/2.4d8fc1a3.chunk.js",
+    "static/js/2.4d8fc1a3.chunk.js.map": "/photoshop-clone/static/js/2.4d8fc1a3.chunk.js.map",
+    "index.html": "/photoshop-clone/index.html",
+    "static/css/main.938f98cf.chunk.css.map": "/photoshop-clone/static/css/main.938f98cf.chunk.css.map",
+    "static/js/2.4d8fc1a3.chunk.js.LICENSE.txt": "/photoshop-clone/static/js/2.4d8fc1a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.470b836a.js",
+    "static/js/2.4d8fc1a3.chunk.js",
+    "static/css/main.938f98cf.chunk.css",
+    "static/js/main.e496a332.chunk.js"
+  ]
+}
